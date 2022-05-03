@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Godzilla6370
-- 👀 I’m interested in a lot of things
+- 👀 I’m interested in Math, Science, Astronomy, Coding
 - 🌱 I’m currently learning in school
-- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me ´enmartinez2009@gmail.com´
 
 <!---
